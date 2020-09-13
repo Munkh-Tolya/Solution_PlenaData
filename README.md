@@ -1,7 +1,7 @@
 # Instruction
 Coding assessment of Plena Data by Munkh Tolya
 
-I appreciate for reviewing my coding assessment for junior software engineer.
+I appreciate for reviewing my coding assessment for software engineer.
 Therefore I have made this solution using Java and IntelliJ. 
 
 Here are things you can do: 
